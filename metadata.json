@@ -1,0 +1,6 @@
+{
+  "name": "CineMatrix ML - Hybrid Movie Recommender",
+  "description": "Dynamic machine learning movie recommendation engine with hybrid content-based, collaborative filtering, real-time user profiles, and TMDB integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
